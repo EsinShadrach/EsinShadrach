@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&count_private=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsinShadrach)](https://github.com/anuraghazra/github-readme-stats)
