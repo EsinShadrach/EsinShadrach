@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsinShadrach)](https://github.com/anuraghazra/github-readme-stats)
+![EsinShadrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsinShadrach&count_private=true)
