@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-![EsinShadrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsinShadrach&count_private=true)
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&theme=dark&count_private=true"
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&count_private=true" />
 </picture>
