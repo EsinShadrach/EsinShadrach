@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 ![EsinShadrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsinShadrach&count_private=true)
 <picture align="center">
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true" />
 </picture>
