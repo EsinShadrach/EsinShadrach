@@ -99,6 +99,6 @@ Here are some ideas to get you started:
 </p>
 <br />
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsinShadrach&hide_progress=true" width="100%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsinShadrach&hide_progress=true&theme=transparent" width="100%"/>
 </p>
 
