@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center">
-  My name is Shadrach Rafe Esin, and I'm a 17-year-old Full-Stack Web Developer with expertise in HTML, CSS, JavaScript, Dart, Flutter and React. But wait, there's more! I'm also a Python developer with experience in Django, and I've even dabbled in C++.
+  My name is Shadrach Rafe Esin, and I'm Full-Stack Web Developer with expertise in HTML, CSS, JavaScript, Dart, Flutter and React. But wait, there's more! I'm also a Python developer with experience in Django, and I've even dabbled in C++.
 </h3>
 <p align="center">
   <span>
