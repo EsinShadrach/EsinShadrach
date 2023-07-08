@@ -41,7 +41,6 @@ Feel free to explore my [GitHub repositories](https://github.com/EsinShadrach?ta
 <p align="left">
 <a href="https://twitter.com/@overflow_why" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobitheprof" height="30" width="40" /></a>
 <a href="https://www.threads.net/@overflow_why" target="blank"><img align="center" style="border-radius: 0.3rem; background-color: black; padding: 0.2rem;" src="https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/07/Threads-logo-1024x865.jpg" alt="tobi therevolutionary" height="30" width="40" /></a>
-<a href="https://www.threads.net/@overflow_why" target="blank"><img align="center" style="border-radius: 0.3rem; background-color: black; padding: 0.2rem;" src="https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/07/Threads-logo-1024x865.jpg" alt="tobi therevolutionary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
