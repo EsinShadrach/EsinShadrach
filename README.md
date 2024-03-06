@@ -1,6 +1,6 @@
 <h1>
 <a href="https://rafe-esin.com">
-Esin Shadrach's profile <img width="80" src="./assets/anime-hi.gif" />
+ Rafe's profile <img width="80" src="./assets/anime-hi.gif" />
 </a>
 </h1>
 <div>
