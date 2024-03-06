@@ -69,12 +69,12 @@ I Enjoy programming language and framework design, and I have plans to create my
 
 ## Favourite =: (Frameworks) | (Libraries) | (tools);
 
--   Vim
--   NextJs
--   Flutter
--   React
--   Drizzle
--   Firebase
+- Vim
+- NextJs
+- Flutter
+- React
+- Drizzle
+- Firebase
 
 <br />
 
@@ -84,3 +84,19 @@ I Enjoy programming language and framework design, and I have plans to create my
   <a href="https://twitter.com/rafeesin"><img src="https://img.shields.io/badge/-rafe_esin-black?style=flat&logo=Twitter&logoColor=white"  alt="Twitter"/>
   
   </a>
+
+## Projects
+
+| App Development                                   | Web Development                                   | CLI tools                                         |
+| ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ![Placeholder 1](https://via.placeholder.com/150) | ![Placeholder 2](https://via.placeholder.com/150) | ![Placeholder 3](https://via.placeholder.com/150) |
+| Cool project                                      | Cute Project                                      | Mysterious Project                                |
+
+## TODO
+
+- [ ] Add Images to Project Section Above...
+- [ ] Create a programming language
+- [ ] Create a GUI framework
+- [x] Create a CLI tool
+- [ ] Create a Web framework
+- [ ] Create a App framework
