@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
     push:
         branches:
-            - master
+            - main
 
 jobs:
     generate:
@@ -36,10 +36,10 @@ jobs:
                       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
             # Push Svg
-            - name: Push SVG files to master branch
+            - name: Push SVG files to main branch
               uses: crazy-max/ghaction-github-pages@v2.6.0
               with:
-                  target_branch: master
+                  target_branch: main
                   build_dir: dist
                   keep_history: true
               env:
