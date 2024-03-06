@@ -46,7 +46,7 @@ I Enjoy programming language and framework design, and I have plans to create my
 </div>
       </td>
       <td>
-<img align="right" src="./assets/avatar_whole_body.png" />
+<img align="right" src="https://avatars.githubusercontent.com/u/102266348?s=400&u=27804a396826a7fa63f9d003a1e96ba7e0dc96e0&v=4" />
       </td>
     </tr>
   </table>
