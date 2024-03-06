@@ -1,7 +1,7 @@
 <h1>
 <a href="https://rafe-esin.com">
- Rafe's profile <img width="80" src="./assets/anime-hi.gif" />
-</a>
+ Rafe's profile 
+</a><img width="80" src="./assets/anime-hi.gif" />
 </h1>
 <div>
   <p align="center">
