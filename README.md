@@ -45,9 +45,6 @@ I Enjoy programming language and framework design, and I have plans to create my
 </ul>
 </div>
       </td>
-      <td>
-<img align="right" src="https://avatars.githubusercontent.com/u/102266348?s=400&u=27804a396826a7fa63f9d003a1e96ba7e0di96e0&v=4" />
-      </td>
     </tr>
   </table>
 
