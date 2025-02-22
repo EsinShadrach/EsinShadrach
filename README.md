@@ -22,7 +22,7 @@
 <div>
           <img width="80" src="./assets/anime-hi.gif" />
         </div>
-Hi, I'm Rafe, a developer, with more than 4 years of experience. Currently, I'm working on Apps and CLI tools (sometimes), but I'm always open to new ideas. I'm a big fan of Unix, TypeScript, as well as Rust, Dart, Python, and Go.
+Hi, I'm Rafe, a developer, with 5 years of experience. Currently, I'm working on Apps and CLI tools (sometimes), but I'm always open to new ideas. I'm a big fan of Unix, TypeScript, as well as Rust, Dart, Python, and Go.
 <br />
         <br />
 I Enjoy programming language and framework design, and I have plans to create my own programming language, and GUI framework (in rust) Someday.
